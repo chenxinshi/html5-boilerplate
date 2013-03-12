@@ -1,7 +1,6 @@
 ### HEAD
 
-* Use a protocol relative URL for the 404 template script.
-* Update to jQuery 1.9.1.
+* Update to jQuery 1.9.1
 
 ### 4.1.0 (January 21, 2013)
 
